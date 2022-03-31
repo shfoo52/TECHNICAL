@@ -1,0 +1,12 @@
+ When performing payment debit adjustment to offset customers credit balance (overpayment), system uses the payment debit to knocked off payment made last cycle and hence system treats the customer did not pay last cycle min due, then turns account into delinquent.
+ 
+ Enhancement to handle Debit Payment to always offset any available credit balance first, then use the net credit payment for amount due calculation.
+Example:
+Outstanding balance = -1000.00 (overpayment)
+Total payment            =  1000.00 (debit payment)
+Net Payment             =  O/S Bal - Total Payment = (-1000.00) - (1000.00) = 0
+*** Before enhancement, system use Total payment (1000.00) for Amt Due computation. 
+*** After enhancement, system will use the Net payment for Amt Due computation. [Condition: Only when a/c have overpayment]
+
+Law Choong Pin  - Proposed Solution - Proposed Solution - Enhancement to handle Debit Payment to always offset any available credit balance first, then use the net credit payment for amount due calculation.
+
