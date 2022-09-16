@@ -1,0 +1,135 @@
+ISS_SCX001  ENH         OPN   EVL   3                               69   SCX Implementation for iPz                          
+ISS_SCX002  ENH         OPN   EVL   3                                8   ProfileNowz Risk Group Code Extraction              
+ISSCR00001  ENH         OPN   EVL   3                               25   CR041: Credit Limit Revision                        
+ISSCR00002  ENH         OPN   EVL   3                               12   CR141: Recidency Status                             
+ISSCR00003  ENH         OPN   EVL   3                               15   CR154: AEON Web return multiple page of records     
+ISSCR00004  ENH         OPN   EVL   3                                5   TCR0008 - E-Wallet GetAppStatus                     
+ISSCR00005  ENH         OPN   EVL   3                                5   CR162: Staff FPP 0%                                 
+ISSCR00006  ENH         OPN   EVL   3                                8   TCR0026 : AMP Card Replacement and stop card        
+ISSCR00007  ENH         OPN   EVL   3                                2   CR526: Convenstional Insurance Clarification Rpt    
+ISSCR00008  ENH         OPN   EVL   3                                9   NEB for CCREPAYFPX night mode posting               
+ISSCR00009  ENH         OPN   EVL   3                               29   CR518 : eKYC Verification                           
+ISSCR00010  ENH         OPN   EVL   3                               10   Business Card Statement (Yearly)                    
+ISSCR00011  ENH         OPN   EVL   3                                6   CR159 : AMP Card Reapplication                      
+ISSCR00012  ENH         OPN   EVL   3                                2   ACR-210708-0009 Renewal delivery dft home addr      
+ISSCR00013  ENH         OPN   EVL   3                               21   ACR-210909-0008 Acquisition Campaign-AEON Voucher 
+ISSCR00015  ENH         OPN   EVL   3                               56   ACR-210815-0002 AMP Instant Membership Renew       
+ISSCR00016  ENH         OPN   EVL   3                               53   ACR-220105-0001 Balance Conversion (BC-FR)         
+ISSCR00017  ENH         OPN   EVL   3                               94   ACR-210707-0011_mPass e-Commerce Acquiring         
+ISSCR00018  ENH         OPN   CMP   3                              125   ACR-210719-0006 Ready Cash                         
+ISSCR00019  ENH         OPN   CMP   3                               10   ACR-210722-0007 BT - Incentive Report              
+ISSCR00020  ENH         OPN   EVL   3                              182   ACR-211110-0003 In2Niaga Penjaja                   
+ISSCR00021  ENH         OPN   EVL   3                                9   ACR-210706-0013 SMS C011 send via brn accept card  
+ISSCR00022  ENH         OPN   EVL   3                               17   ACR-210802-0008 Autho reject trx SMS trigger       
+ISSCR00023  ENH         OPN   EVL   3                               15   ACR-220510-0001 EP Mechants Cross Sell CC Prod     
+ISSCR00024  ENH         OPN   EVL   3                               30   ACR-220425-0008 CC AKPK Postponement Enhancement   
+ISSCR00025  ENH         OPN   EVL   3                               56   ACR-220523-0005 CC Lucky Draw Contest              
+ISSCR00026  ENH         OPN   EVL   3                                4   ACR-220208-0004 PMC Clean Base Exercise (Pending)  
+ISSCR00027  ENH         OPN   EVL   3                               59   ACR-220816-0007_Bulks Card Block and Replacement   
+ISSCR00999  ENH         OPN   EVL   3                                4   General Issuing Change Request                     
+ISSDR00001  ENH         OPN   EVL   3                               10   Data Receovery Task                                
+ISSPADSS01  ENH         OPN   EVL   3                                5   ISS - PADSS Compliance                             
+ISSPD00001  BUG         OPN   EVL   3                              584   ISS - Production Issues                            
+ISSPD00002  BUG         OPN   EVL   3                               23   ISS - Production Issues for PRD#11458 
+ISSPD00003  ENH         OPN   EVL   3                               35   Application creation related pgm                    
+ISSPD00004  ENH         OPN   EVL   3                               11   ACRIR-210708-0005 Accrued Int Extraction            
+ISSPD00005  BUG         OPN   EVL   3                               19   ACRIR-210726-0011 iPz CCRIS Reporting               
+ISSPD00006  BUG         OPN   EVL   3                               21   ACRIR-210829-0001 Annual Fee not charge             
+ISSPD00007  BUG         OPN   EVL   3                                4   ACRIR-210927-0007 Auth Amt Not Drop After Settmnt   
+ISSPD00008  ENH         OPN   EVL   3                                3   TMPGLPF DEMAGE                                      
+ISSPD00009  ENH         OPN   ACP   3                                2   CR-210722-0010 Credit Bal Inq (Remove Deseaced)     
+ISSPD00010  BUG         OPN   EVL   3                                2   IR-211221-0005 Loan disburse to MP instead of VP    
+ISSPD00011  BUG         OPN   EVL   3                               17   IR-211222-0001 card expiry error                    
+ISSPD00012  ENH         OPN   EVL   3                                8   IR-210705-0006 Remove Dispute Tagging               
+ISSPD00013  BUG         OPN   EVL   3                                3   IR-210729-0003 Balance transfer breakdown           
+ISSPD00014  BUG         OPN   EVL   3                                3   IR-210818-0009 Receiver value too small to hold     
+ISSPD00015  BUG         OPN   EVL   3                                2   IR-211026-0003 Variance in deposit received GL      
+ISSPD00016  BUG         OPN   EVL   3                                2   IR-220103-0004 Unclaimed Money                      
+ISSPD00017  BUG         OPN   EVL   3                                2   Fixed ICC6034 Field ANSSEQ too small to hold resul  
+ISSPD00018  BUG         OPN   EVL   3                                4   IR-220114-0003 Incorrect Visa Internal Markup       
+ISSPD00019  BUG         OPN   EVL   3                                5   IR-220110-0005 Trx rejected hit error -  F371       
+ISSPD00020  ENH         OPN   EVL   3                                3   IR-220117-0002 AMP card unable replacement          
+ISSPD00021  ENH         OPN   EVL   3                               21   IR-211029-0002 KNTACB locking by application  
+ISSPD00022  BUG         OPN   EVL   3                                3   IR-211215-0004 Dispute Rtl Int Charged for AMP Crd   
+ISSPD00023  ENH         OPN   EVL   3                                3   IR-211202-0002 Night mode write file                 
+ISSPD00024  BUG         OPN   EVL   3                                1   Redmine#14933 EOD job EOD_PART1 MSGW                 
+ISSPD00025  BUG         OPN   CMP   3                               36   IR-220211-0001 ATM Payment to cater SAF              
+ISSPD00026  BUG         OPN   CMP   3                                3   IR-220117-0002 AMP card retrieve wrong card          
+ISSPD00027  BUG         OPN   CMP   3                               27   IR-220124-0011 AMP DBSYNC with *ADD and 03 status    
+ISSPD00028  BUG         OPN   EVL   3                                3   IR-220128-0002 Customer cannot reapplication         
+ISSPD00029  BUG         OPN   EVL   3                                3   IR-211119-0003 invalid account/card number           
+ISSPD00030  BUG         OPN   EVL   3                               38   IR-211223-0006 (AEON CO/BIG SETTLEMENT REPORT)       
+ISSPD00031  BUG         OPN   EVL   3                               11   IR-210730-0003 LOCB Report not tally with SAP        
+ISSPD00032  BUG         OPN   EVL   3                               24   IR-220211-0003 Double click BT Proceed button        
+ISSPD00033  BUG         OPN   EVL   3                                3   IR-211213-0002 IR Refund&dispute GL not sent 2 SAP   
+ISSPD00034  BUG         OPN   CMP   3                                2   IR-211001-0007 Excl Dispute amt frm Auto Debit amt   
+ISSPD00035  BUG         OPN   CMP   3                                3   IR-220208-0002 Trx matched but auth bal no drop      
+ISSPD00036  BUG         OPN   EVL   3                                2   IR-220217-0002 Card under delinq even pay min due    
+ISSPD00037  BUG         OPN   EVL   3                               15   IR-220304-0003 report ICCH1301P3 extraction logic    
+ISSPD00038  BUG         OPN   CMP   3   SL008                        2   IR-220228-0001 No SAP interface to GL for TC 1323  
+ISSPD00039  BUG         OPN   EVL   3                                6   IR-220317-0003 update back *LDA override by VC2101 
+ISSPD00040  BUG         OPN   EVL   3                               27   IR-220211-0002 Card delivery address from LOS      
+ISSPD00041  BUG         OPN   EVL   3                                2   IR-220317-0007 Ovrpym in LOCB not tally to SAP GL  
+ISSPD00042  BUG         OPN   CMP   3                                2   IR-220314-0004 AMP Annual Fee is not deducted      
+ISSPD00043  BUG         OPN   EVL   3                                2   IR-220225-0003 A/C turn NPL one day b4 actual date 
+ISSPD00044  BUG         OPN   EVL   3                               77   IR-220317-0005 Autho amt doesnt drop after settle  
+ISSPD00045  BUG         OPN   EVL   3                                3   IR-220325-0003 CCRIS Daily CR Limit For CC is 0    
+ISSPD00046  BUG         OPN   EVL   3                               27   IR-220408-0002 Delayed Posting of Payment          
+ISSPD00047  ENH         OPN   EVL   3                               42   IR-220407-0007 MSGW:Storga lmt exceed for DQCX9019 
+ISSPD00048  BUG         OPN   EVL   3                                3   IR-220401-0002 Sent NRI SMS card activated>14 days 
+ISSPD00049  BUG         OPN   EVL   3                                6   IR-211111-0001 Call API to get Expired date        
+ISSPD00051  BUG         OPN   EVL   3                                3   IR-220404-0017 OpenAPI card status incorrect       
+ISSPD00052  ENH         OPN   EVL   3                                3   IR-210924-0004 IVR show wrong statement & due date 
+ISSPD00053  BUG         OPN   EVL   3                                2   IR-220301-0001 LOCB report variance                
+ISSPD00054  ENH         OPN   EVL   3                                0   Card Application Detail Field Change               
+ISSPD00055  BUG         OPN   EVL   3                                9   IR-220427-0006 Transaction not showing in E-Wallet 
+ISSPD00056  BUG         OPN   EVL   3                               25   IR-220512-0007 ISSUANCE AMP ERROR                   
+ISSPD00057  BUG         OPN   EVL   3                               25   IR-220517-0002 Machine ID for ICCES kiosk(D-sonic)  
+ISSPD00058  ENH         OPN   EVL   3                                4   IR-220325-0007 Minimum Amount Due                   
+ISSPD00059  ENH         OPN   EVL   3                                3   IR-220518-0005 Card Collection Vld Logic            
+ISSPD00060  BUG         OPN   EVL   3                                2   IR-220526-0003 Statement point not tally with RzN   
+ISSPD00061  BUG         OPN   EVL   3                                2   IR-210730-0017 Markup on MC incoming pymt trx amt   
+ISSPD00062  BUG         OPN   EVL   3                                3   IR-211118-0008 Parallel application account cancel  
+ISSPD00063  ENH         OPN   EVL   3                                6   IR-220510-0006 exclude card status is 02            
+ISSPD00064  BUG         OPN   EVL   3                                9   IR-220526-0005 FPP Error (IPP0024)                  
+ISSPD00065  BUG         OPN   EVL   3                               12   IR-220524-0003 CC Household Credit limit = 0        
+ISSPD00066  BUG         OPN   EVL   3                               14   IR-220324-0002 Report redirect out value incorrect  
+ISSPD00067  BUG         OPN   EVL   3                                3   IR-220531-0008 Contactless txns with PIN declined   
+ISSPD00068  BUG         OPN   EVL   3                               49   IR-220607-0008 MB CARD - F122 FIN INSUFF CR AT CRD  
+ISSPD00069  BUG         OPN   EVL   3                                5   IR-211008-0003 Zing Card listing enhancement        
+ISSPD00070  BUG         OPN   EVL   3                                3   IR-220623-0008 Customer Emoney Balance Show 0       
+ISSPD00071  ENH         OPN   EVL   3                                3   IR-220524-0002 CC WRONGLY CAPTURED PREVIOUS LIMIT   
+ISSPD00072  BUG         OPN   EVL   3                                3   IR-220704-0001 Unable to Allocate Record KNTRSKL0   
+ISSPD00073  ENH         OPN   EVL   3                                2   IR-220704-0003 EOD Prolong: iPz RN Data Extraction  
+ISSPD00074  ENH         OPN   EVL   3                               22   IR-220309-0003 Settlement RAW Files                 
+ISSPD00075  ENH         OPN   EVL   3                                2   IR-220315-0004 Autho capture wrong date cross yr   
+ISSPD00076  ENH         OPN   EVL   3                                6   IR-220729-0006 Fixed Corp card hit data decmal err 
+ISSPD00077  ENH         OPN   EVL   3                                2   IR-220715-0004 ICC6100C hit duplicate on CUSMSCPF  
+ISSPD00078  ENH         OPN   EVL   3                                6   IR-220329-0005 Zing Card Replacement               
+ISSPD00079  ENH         OPN   EVL   3                                3   IR-220728-0001 INCORRECT PARTY TYPE FOR SUPP. APPL 
+ISSPD00080  ENH         OPN   EVL   3                               12   IR-220802-0007 Card renewal RM12 no charge         
+ISSPD00081  ENH         OPN   EVL   3                                4   IR-220802-0005 Card stock summary report AMP issue 
+ISSPD00082  ENH         OPN   EVL   3                                6   IR-220803-0005 payment posted under auth balance   
+ISSPD00083  BUG         OPN   EVL   3                               11   IR-220512-0003 Duplicate posting for manual IPP    
+ISSPD00084  ENH         OPN   EVL   3                               19   IR-220815-0007 SCX Same day AEON CDM Payment       
+ISSPD00085  BUG         OPN   EVL   3                                3   IR-220714-0002 AMP Mbr Recog allow for unlink card 
+ISSPD00086  BUG         OPN   EVL   3                               16   IR-220817-0003 Sensor_Mai Lock and NWAY issue      
+ISSPD00087  BUG         OPN   EVL   3                                3   IR-220812-0003 C011 trigger when card is active    
+ISSPD00088  BUG         OPN   EVL   3                                2   IR-220803-0004 cancelled zing card to active       
+ISSPD00089  BUG         OPN   EVL   3                                2   IR-220913-0005 ATM PAYMENT reverse wrong trx       
+ISSPD00090  ENH         OPN   EVL   3                                2   IR-220909-0001 RzN return point bal from CC        
+ISSPD00091  ENH         OPN   EVL   3                                3   IR-220706-0003 Total authorized balance incorrect  
+ISSPD00092  ENH         OPN   EVL   3                                2   IR-220809-0005 Fix Item in SDIS files due to issue   
+ISSPD20001  ENH         OPN   EVL   3                                8   Phase 2 Program change                               
+ISSPD20002  ENH         OPN   EVL   3                                6   #14895 Outstanding amount zerorise if -NE value      
+ISSPD20003  ENH         OPN   EVL   3                                3   #14988 AKPK status for AKPK terminated               
+ISSPD20004  BUG         OPN   EVL   3                                2   #15080 ICSS014R is creation huge outq                
+ISSPD20005  BUG         OPN   EVL   3                                0   #15138 statement date Maintain Indicator is N        
+ISSPH20001  ENH         OPN   EVL   3                              112   ISS - PHASE 2 Program Change                         
+ISSPH20002  ENH         OPN   EVL   3                               84   ISS - PHASE 2 Recompile                              
+ISSPH20003  ENH         OPN   EVL   3                               14   ISS - PHASE 2 BWC Object     
+
+ISS2CR0001  ENH         OPN   EVL   3                                0   CR117 - EPPFRepayAMP            
+ISS2CR0002  ENH         OPN   EVL   3                                8   CR521 - Merchant E-Commerce     
+ISS2CR0003  ENH         OPN   EVL   3                                8   CR162 - Staff Credit Card 0% FPP
+ISS2000001  ENH         OPN   EVL   3                               44   ISS PHASE 2 ENHANCEMENT                                 
